@@ -1,2 +1,2 @@
 # CoreDataStack-fastlane
-![Alt text](/relative/path/to/CoreDataStack-fastlane/Screenshot 2021-08-11 at 22.22.30.png?raw=true "Optional Title")
+![Alt text](https://github.com/psolinsk/CoreDataStack-fastlane/blob/main/Screenshot%202021-08-11%20at%2022.22.30.png "Optional title")
